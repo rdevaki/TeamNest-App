@@ -1,0 +1,20 @@
+teamnest/
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── includes/
+│   ├── functions.php
+│   └── header.php
+├── index.php
+├── signup.php
+├── login.php
+├── logout.php
+├── profile.php
+├── members.php
+├── friends.php
+├── messages.php
+├── db.php
+├── .gitignore
+└── README.md
+
